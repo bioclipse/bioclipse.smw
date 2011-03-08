@@ -15,7 +15,6 @@ import net.bioclipse.core.PublishedMethod;
 import net.bioclipse.core.Recorded;
 import net.bioclipse.managers.business.IBioclipseManager;
 import net.bioclipse.rdf.business.IRDFStore;
-import net.bioclipse.rdf.model.StringMatrix;
 
 @PublishedClass(
 		value="Connects Bioclipse to a remote Semantic MediaWiki installation"
